@@ -1,2 +1,1 @@
-# dio-curso-sintaxe-basica-javascript
-Sintaxe básica Javascript
+# Sintaxe Básica em JavaScript
